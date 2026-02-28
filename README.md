@@ -45,7 +45,7 @@ amazon-clone/
 
 ## 📸 Screenshot
 
-![Homepage Screenshot](images/screenshot.png)
+![Homepage Screenshot](Images/screenshot.png)
 
 ---
 
